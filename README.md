@@ -6,4 +6,6 @@ Experimental-Theory-Data.xlsx Contains:
 
 Theory-Data.tar.gz Contains:
   Theory Data for Figures 6 and 8
-S3, S4 and S5
+
+Theory-Wavefunction-Isosurfaces Contains:
+  All data file for figures containing PBE wavefunction isosurfaces
