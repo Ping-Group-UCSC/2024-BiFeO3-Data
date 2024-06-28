@@ -5,4 +5,5 @@ Experimental-Theory-Data.xlsx Contains:
   Theory Data for Figure 4
 
 Theory-Data.tar.gz Contains:
-  Theory Data for Figures 6, 7, 8, S3, S4 and S5
+  Theory Data for Figures 6 and 8
+S3, S4 and S5
