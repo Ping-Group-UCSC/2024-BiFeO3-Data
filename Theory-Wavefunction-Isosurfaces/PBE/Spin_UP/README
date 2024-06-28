@@ -1,0 +1,6 @@
+Wavefunctions for spin up states in Na doped BiFeO3 at PBE level
+
+spinup_1.xsf    = XSF file for spin up hole polaron state
+spinup_2.xsf    = XSF file for spin up perturbed conduction state 1
+spinup_3.xsf    = XSF file for spin up perturbed conduction state 2
+spinup_4.xsf    = XSF file for spin up perturbed conduction state 3
